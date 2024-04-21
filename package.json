@@ -1,0 +1,20 @@
+{
+  "name": "basicfilesystem",
+  "version": "1.0.0",
+  "description": "Basic Nodejs File System",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Filesystem"
+  ],
+  "author": "VISHNU",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
